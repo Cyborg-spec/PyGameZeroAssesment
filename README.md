@@ -20,8 +20,7 @@ pgzrun (Pygame Zero)
 pygame.Rect
 
 ## Game Description
-Dungeon Runner is a simple top-down game. The player moves around the dungeon, avoids enemies, and tries to reach the exit. Each level increases difficulty with faster enemies, more enemies, and added interior walls.
-
+Dungeon Runner is a lightweight roguelike where the player navigates a dungeon, avoids enemies, and reaches the exit. Each level increases difficulty with more enemies, faster speeds, and new walls.
 ## Controls
 
 Arrow Keys / WASD: Move
